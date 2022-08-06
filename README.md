@@ -2,7 +2,8 @@
 
 
 ## Demo -> 
-![Heart Vein Blockage Detection](https://user-images.githubusercontent.com/25412736/183263753-52634d65-e968-4aa6-9970-61806c78109a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/25412736/183263811-4fdd11c0-b272-4498-89e0-41d9422327b6.gif)
+
 
 
 ## Introduction
